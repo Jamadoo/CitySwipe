@@ -1,0 +1,156 @@
+{
+  "Qeustions": [
+    {
+      "QeustionType": "Input",
+      "QeustionStatement": "Enter a Nickname For Your Group",
+      "DatabaseField": "GroupName",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Multichoice",
+      "QeustionStatement": "Any Accessibility Needs?",
+      "DatabaseField": "AccessibilityNeeds",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [
+        "Wheelchair friendly ♿",
+        "None 🙆‍♂️"
+      ],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Multichoice",
+      "QeustionStatement": "What's the group's alcohol level?",
+      "DatabaseField": "AlcoholLevel",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [
+        "We never drink 🚫🍺",
+        "Only at restaurants (beer/wine) 🍷",
+        "Bars/Clubs (moderate shots and mixed drinks) 🍹",
+        "Party animals — we drink wherever we’re allowed 🥳🍻"
+      ],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Multichoice",
+      "QeustionStatement": "How social is your group with strangers?",
+      "DatabaseField": "SocialLevel",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [
+        "No new people 🙈",
+        "We’ll chat if they’re cool 😎",
+        "We love making new friends! 🤝"
+      ],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Multichoice",
+      "QeustionStatement": "What kind of fun are you after?",
+      "DatabaseField": "FunType",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [
+        "Physical thrills (paintball) 🏃‍♂️",
+        "Chill hangouts (coffee spots) ☕",
+        "Playful competition (mini golf) ⛳",
+        "High-end vibes (wine tastings) 🍷",
+        "Aesthetic Instagram day 📸"
+      ],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Multichoice",
+      "QeustionStatement": "Pick your group's perfect outing mood:",
+      "DatabaseField": "OutingMood",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [
+        "Adrenaline rush 😤",
+        "Zen & unwind ✨",
+        "Competitive & focused 🎯",
+        "Active & seeking action 🏃"
+      ],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Multichoice",
+      "QeustionStatement": "What’s your ideal group vibe?",
+      "DatabaseField": "GroupVibe",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [
+        "Deep convos & cozy spots 🛋️",
+        "Laughing nonstop & on the move 😂",
+        "Exploring new places & trying new things 🧭",
+        "Quietly enjoying the moment 🌅"
+      ],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Multichoice",
+      "QeustionStatement": "How does your group usually recharge?",
+      "DatabaseField": "RechargeStyle",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [
+        "Loud fun with big energy ⚡",
+        "Good food and chill spaces 🍔🪑",
+        "Nature, walks, and fresh air 🌳",
+        "Spa, silence, or naps 💤"
+      ],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Multichoice",
+      "QeustionStatement": "What style does your group like?",
+      "DatabaseField": "GroupStyle",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [
+        "Modern, clean places 🏙️",
+        "Hardcore, metal 🤘",
+        "Old-time / Cowboy 🤠",
+        "Vintage 🧳"
+      ],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Multichoice",
+      "QeustionStatement": "How spicy do you get?",
+      "DatabaseField": "AdultEntertainmentComfort",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [
+        "No adult venues, please 🙈",
+        "Burlesque, cabaret, risqué comedy is fine 💃",
+        "Strip clubs or themed bars are okay 👯",
+        "The wilder, the better — anything goes 🔥"
+      ],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Spinedit",
+      "QeustionStatement": "How many children are in the group?",
+      "DatabaseField": "ChildrenCount",
+      "iMin": 0,
+      "iMax": 10,
+      "Options": [],
+      "Answer": ""
+    },
+    {
+      "QeustionType": "Input",
+      "QeustionStatement": "Anything Important We Missed, You Want To Add? Ex. Special Needs, Exceptions, Places To Avoid",
+      "DatabaseField": "AdditionalInfo",
+      "iMin": 0,
+      "iMax": 0,
+      "Options": [],
+      "Answer": "",
+      "NotRequired":true
+    }
+  ]
+}
