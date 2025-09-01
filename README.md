@@ -69,6 +69,15 @@ Workflow: create a **Group Profile** (accessibility, vibe, energy, kids count, b
 
 ---
 
+## 🖼️ Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0dbdf58-9953-49cd-9651-fb2740297921" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4562a381-c977-4921-8dae-15c17b0163c9b" width="30%" />
+  <img src="https://github.com/user-attachments/assets/63050474-922e-49af-aab4-7956c21649fa" width="30%" /> 
+</p> 
+
+---
+
 ## 🌐 Custom Google API Wrapper for Delphi
 
 CitySwipe uses a **home-built Delphi wrapper** around the Google Maps **Places API**:  
@@ -111,5 +120,4 @@ This wrapper gave CitySwipe **mobile-ready performance** and showed I can **reve
 ## 🔗 Design & Dev Notes
 
 - **Design prototype (Figma):** CitySwipe UI flow & visuals  
-- **Run notes:** Windows x64 or Android; include DataFiles in deployment  
-- **Limitations:** DeepThink can be slower; Delphi FMX dynamic components can visually glitch under rapid updates (UI refresh fixes it) 
+- **Run notes:** a Setup is required to allow the program to run. 
