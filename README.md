@@ -71,9 +71,9 @@ Workflow: create a **Group Profile** (accessibility, vibe, energy, kids count, b
 
 ## 🖼️ Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e0dbdf58-9953-49cd-9651-fb2740297921" width="30%" />
-  <img src="https://github.com/user-attachments/assets/4562a381-c977-4921-8dae-15c17b0163c9b" width="30%" />
-  <img src="https://github.com/user-attachments/assets/63050474-922e-49af-aab4-7956c21649fa" width="30%" /> 
+  <img src="https://github.com/user-attachments/assets/e0dbdf58-9953-49cd-9651-fb2740297921" width="20%" />
+  <img src="https://github.com/user-attachments/assets/4562a381-c977-4921-8dae-15c17b0163c9b" width="20%" />
+  <img src="https://github.com/user-attachments/assets/63050474-922e-49af-aab4-7956c21649fa" width="20%" /> 
 </p> 
 
 ---
